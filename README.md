@@ -3,5 +3,6 @@ So I created and deployed an end-to-end web scrapper which scraps product review
 I have reduced the amount of review and just included flipkart for the reviews so the i can reduced the time taken by the scrapper and
 this will get you the idea of the project
 
-![](static/css/working_of_productreviewscrapper.mp4)
+#website link
+https://productreviewscrapper.herokuapp.com/
 
