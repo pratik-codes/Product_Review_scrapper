@@ -6,3 +6,16 @@ this will get you the idea of the project
 #website link
 https://productreviewscrapper.herokuapp.com/
 
+# Images of site and result of a product review
+
+## HOMEPAGE
+
+![](static/css/Annotation%202020-06-17%20194144.jpg)
+
+## INPUT
+
+![](static/css/Annotation%202020-06-17%20194203.jpg)
+
+## RESULT
+
+![](static/css/Annotation%202020-06-17%20194229.jpg)
